@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+p{
+    border-radius: 25px;
+    padding: 10px;
+}
+  div p:first-child {
+    background-color: yellow;
+    color: red;
+    padding: 10px; 
+  }
